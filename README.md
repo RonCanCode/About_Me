@@ -1,5 +1,4 @@
-# hello-world
-Just another repository.
+# About Me
 
 My name is Ron Guglielmone, and I generally do like to learn new things.
 However, lately I've been a bit overwhelmed with it.  A few years ago, I 
